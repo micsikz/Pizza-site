@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+body {
+    background: rgb(155, 12, 12);
+}
+
+#content {
+  background: lime;
+  margin: 0;
+  padding: 0;
+}
